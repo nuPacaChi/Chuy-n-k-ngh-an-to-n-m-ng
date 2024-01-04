@@ -4,7 +4,7 @@
 Về công cụ: 
 
 IDA PRO v7.7: 
-  [https://hex-rays.com/products/ida/news/7_7/](https://drive.google.com/file/d/1I_4iJ3QEwTi5AA-J8PIeeHQzRGirmLdv/view)
+  (https://drive.google.com/file/d/1I_4iJ3QEwTi5AA-J8PIeeHQzRGirmLdv/view)
 
 PEID:
   https://taimienphi.vn/download-peid-33068/0-95-phien-ban
